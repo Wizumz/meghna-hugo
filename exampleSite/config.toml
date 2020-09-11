@@ -78,8 +78,5 @@ preloader = "images/logo.png"
 icon = "ti-instagram"
 link = "http://www.instagram.com/skunkflag"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
 icon = "ti-youtube"
 link = "#"
