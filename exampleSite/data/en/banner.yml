@@ -8,6 +8,6 @@ banner:
   content: The outrageously popular Skunk Flag brings excitement to an otherwise,
     potentially, boring fishing trip.
   button:
-    enable: true
+    enable: false
     label: Explore Us
     link: "#services"
