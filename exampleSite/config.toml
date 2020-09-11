@@ -76,7 +76,7 @@ enable = true
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-instagram"
-link = "www.instagram.com/skunkflag"
+link = "http://www.instagram.com/skunkflag"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
